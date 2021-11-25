@@ -3,4 +3,4 @@ This is an AR game which made with the Spark AR. followed youtube tutorials to m
 
 Clone or Download the project file and open it from spark AR application.
 
-![](./prev.png)
+![](./skating_ar.png)
